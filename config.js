@@ -26,7 +26,7 @@ const CONFIG = {
 	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: '', // Write here your API Key
+	weatherKey: 'cf7020b5b48a6230e02c932580c9536b', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -92,9 +92,9 @@ const CONFIG = {
 	secondButtonsContainer: [
 		{
 			id: '1',
-			name: 'Mails',
+			name: 'Gmail',
 			icon: 'Mail',
-			link: 'https://open.spotify.com',
+			link: 'https://mail.google.com/mail',
 		},
 		{
 			id: '2',

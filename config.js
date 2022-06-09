@@ -26,7 +26,7 @@ const CONFIG = {
 	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: '242bc0374f84d91d2256ca0c06dd4407', // Write here your API Key
+	weatherKey: '', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -55,13 +55,13 @@ const CONFIG = {
 			id: '1',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://github.com',
 		},
 		{
 			id: '2',
 			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://youtube.com/',
+			link: 'https://youtube.com',
 		},
 		{
 			id: '3',
@@ -85,7 +85,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Pirate',
 			icon: 'alert-triangle',
-			link: 'https://thepiratebay.org/',
+			link: 'https://thepiratebay.org',
 		},
 	],
 

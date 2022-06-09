@@ -104,9 +104,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',
+			name: 'twitch',
+			icon: 'twitch',
+			link: 'https://twitch.com/',
 		},
 		{
 			id: '4',

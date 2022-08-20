@@ -122,9 +122,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Figma',
+			name: 'Pinterest',
 			icon: 'figma',
-			link: 'https://figma.com/',
+			link: 'https://www.pinterest.es/',
 		},
 	],
 

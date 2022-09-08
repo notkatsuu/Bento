@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
+			name: 'Ecampus',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://ecampus.tecnocampus.cat/ca',
 		},
 		{
 			id: '5',
